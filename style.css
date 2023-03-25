@@ -177,6 +177,7 @@ nav {
 .image-container {
     width: 100%;
     height: auto;
+    position: relative;
 }
 
 @media (min-width: 668px) {
